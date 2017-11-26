@@ -1,0 +1,203 @@
+!SESSION 2017-11-25 22:21:11.922 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/raajaa/Documents/Workshop/FlinkDemo -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-11-25 22:21:18.577
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2017-11-25 22:26:11.425 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/raajaa/Documents/Workshop/FlinkDemo -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-11-25 22:26:17.665
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:37:05.919
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-shaded-hadoop2/1.0.0/flink-shaded-hadoop2-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:37:05.961
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-runtime_2.10/1.0.0/flink-runtime_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:37:05.962
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-clients_2.10/1.0.0/flink-clients_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:37:05.963
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-optimizer_2.10/1.0.0/flink-optimizer_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:38:42.241
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-shaded-hadoop2/1.0.0/flink-shaded-hadoop2-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:38:42.254
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-runtime_2.10/1.0.0/flink-runtime_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:38:42.260
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-clients_2.10/1.0.0/flink-clients_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:38:42.261
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-optimizer_2.10/1.0.0/flink-optimizer_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:42:39.785
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-shaded-hadoop2/1.0.0/flink-shaded-hadoop2-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:42:39.791
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-runtime_2.10/1.0.0/flink-runtime_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:42:39.791
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-clients_2.10/1.0.0/flink-clients_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:42:39.792
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-optimizer_2.10/1.0.0/flink-optimizer_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:43:14.295
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-shaded-hadoop2/1.0.0/flink-shaded-hadoop2-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:43:14.300
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-runtime_2.10/1.0.0/flink-runtime_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:43:14.301
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-clients_2.10/1.0.0/flink-clients_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-26 00:43:14.301
+!MESSAGE Invalid ZIP archive: /Users/raajaa/.m2/repository/org/apache/flink/flink-optimizer_2.10/1.0.0/flink-optimizer_2.10-1.0.0.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-11-26 00:48:06.525
+!MESSAGE Launch configuration Wikipedia references non-existing project WikipediaDemo.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration Wikipedia references non-existing project WikipediaDemo.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2017-11-26 00:48:06.526
+!MESSAGE Launch configuration Wikipedia references non-existing project WikipediaDemo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-11-26 00:48:06.529
+!MESSAGE Launch configuration Wikipedia references non-existing project WikipediaDemo.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration Wikipedia references non-existing project WikipediaDemo.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2017-11-26 00:48:06.529
+!MESSAGE Launch configuration Wikipedia references non-existing project WikipediaDemo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-11-26 00:48:06.533
+!MESSAGE Launch configuration Wikipedia references non-existing project WikipediaDemo.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration Wikipedia references non-existing project WikipediaDemo.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2017-11-26 00:48:06.533
+!MESSAGE Launch configuration Wikipedia references non-existing project WikipediaDemo.
+!SESSION 2017-11-26 00:53:03.636 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data /Users/raajaa/Documents/Workshop/FlinkDemo -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-11-26 00:53:09.866
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 4 0 2017-11-26 00:53:20.482
+!MESSAGE Remove repository mapping of Git mapped resource for which project or mapped git repository has disappeared: 'RepositoryMapping[<empty> -> '.git', absolute path: '/Users/raajaa/Documents/Workshop/FlinkDemo/iot/.git' ]'
+!STACK 0
+java.io.FileNotFoundException: 
+	at org.eclipse.egit.core.project.GitProjectData.logAndUnmapGoneMappedResource(GitProjectData.java:720)
+	at org.eclipse.egit.core.project.GitProjectData.map(GitProjectData.java:683)
+	at org.eclipse.egit.core.project.GitProjectData.remapAll(GitProjectData.java:647)
+	at org.eclipse.egit.core.project.GitProjectData.load(GitProjectData.java:630)
+	at org.eclipse.egit.core.project.GitProjectData.get(GitProjectData.java:218)
+	at org.eclipse.egit.core.project.RepositoryMapping.getProjectData(RepositoryMapping.java:356)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:377)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:317)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.ui.internal.resources.ResourceStateFactory.getIndexDiffDataOrNull(ResourceStateFactory.java:89)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:224)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:201)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:254)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:100)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:383)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:367)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:327)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2017-11-26 13:15:00.355 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/raajaa/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-11-26 13:15:10.948
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
