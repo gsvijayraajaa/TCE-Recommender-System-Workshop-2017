@@ -1,8 +1,0 @@
-1511632100400	Rename package 'com.dataartisans.data'
-1511632129223	Rename package 'com.dataartisans.sources'
-1511632146065	Rename package 'com.dataartisans.sinks'
-1511632176359	Rename package 'com.dataartisans.functions'
-1511632209202	Rename package 'com.dataartisans.jobs'
-1511632278046	Rename type 'OsconJob'
-1511632292704	Rename type 'OsconJobKafka'
-1511637874015	Rename compilation unit 'TickerTweetVolumev5.java'
